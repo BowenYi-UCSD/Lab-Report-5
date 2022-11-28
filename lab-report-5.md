@@ -68,7 +68,7 @@ echo "You achieved the score of $NUMPASS/$NUMTOTAL."
 <br>
 
 - ## Example 3: grading https://github.com/ucsd-cse15l-f22/list-methods-corrected
-![Example3](Images/Example2.png)
+![Example3](Images/Example2Final.png)
 
 <br>
 
