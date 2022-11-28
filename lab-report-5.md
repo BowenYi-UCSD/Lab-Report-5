@@ -1,5 +1,5 @@
 # **Lab Report 5**
-### ***Acknowledgement: I want to thank my classmate Timothy Nyguen who helped me generously to write grade.sh. In addition, Timothy instructed me how to trace my grading example.*** 
+### ***Acknowledgement: I want to thank my classmate Timothy Nguyen who helped me generously to write grade.sh. In addition, Timothy instructed me how to trace my grading example.*** 
 
 <br>
 
